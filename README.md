@@ -9,7 +9,7 @@ SIMULINK MODEL:
 
 OUTPUT:
 
-![image](https://user-images.githubusercontent.com/82087114/154799138-f0fafcbb-2966-4bdb-b873-f220f7d9ad74.png)
+![image](https://user-images.githubusercontent.com/82087114/154799149-931859f4-fa74-4672-872d-3efb176af274.png)
 
 
 
